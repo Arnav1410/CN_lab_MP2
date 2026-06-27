@@ -1,0 +1,7 @@
+alice secretpass1
+bob hunter2
+charlie a23
+rahul R123
+krishna k12
+pritam pr13
+shibashis s134
